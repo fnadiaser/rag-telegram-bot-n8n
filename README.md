@@ -6,7 +6,8 @@
 > Демо-бот [@AGMKAISupport_bot](https://t.me/AGMKAISupport_bot) сейчас отключен: закончилась подписка n8n Cloud. Ниже скриншоты работы.
 
 <img width="328" height="225" alt="image" src="https://github.com/user-attachments/assets/bef17793-9bb7-45f0-92b9-e02e77bc50ad" />
-<img width="328" height="225" alt="image" src="https://github.com/user-attachments/assets/d75d7642-d30d-45f9-ac67-0aa5c7935d48" />
+<img width="404" height="225" alt="image" src="https://github.com/user-attachments/assets/d75d7642-d30d-45f9-ac67-0aa5c7935d48" />
+
 
 Примеры вопросов: «Как быстро проверить качество входных данных», «Как посчитать отклонение план факт», «Какие данные нужны для начала формирования плана».
 
